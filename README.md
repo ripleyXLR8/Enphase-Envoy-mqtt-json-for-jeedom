@@ -6,7 +6,7 @@ Other plugins are available for Jeedom but I needed an higher refresh rate and a
 
 ## Warnings & Limitations
 - This project is not officialy supported by Enphase any change made by Enphase could broke the implementation.
-- This plugins does not retrieved individual solar panel data.
+- This plugins does not retrieve individual solar panel data.
 
 ## Thanks
 This project relies **heavily** on @vk2him work on the Enphase gateway for HomeAssistant available here https://github.com/vk2him/Enphase-Envoy-mqtt-json.
